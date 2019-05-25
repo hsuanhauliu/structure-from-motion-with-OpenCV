@@ -30,5 +30,3 @@ The program follows the process below:
 ![screenshot](output/inlier_match_3.png "")
 
 ![screenshot](output/3-D_3.jpg "")
-
-### Feature Matches
